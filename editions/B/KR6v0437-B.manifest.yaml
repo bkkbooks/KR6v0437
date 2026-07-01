@@ -1,0 +1,350 @@
+canonical_identifier: bkk:krp/KR6v0437/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0437/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 喫茶養生記
+  identifiers:
+    krp: KR6v0437
+    cbeta: B32n0175
+    cbeta_old_id: B32n0175
+    authorityid: CA0006261
+    json_key: B0175
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0175.xml
+    old_id: B32n0175
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0437_000-B.yaml, hash: 'sha256:714f1d655c86962f471b7e3a95d3cae57a8d8c8beba10bde08cbe82014c9c840'}
+  - {seq: 1, filename: KR6v0437_001-B.yaml, hash: 'sha256:54ae60b94cfc4d3a5f68177c7c853ba8f53dc4e1ed5e2d58898205865e3b266a'}
+  - {seq: 2, filename: KR6v0437_002-B.yaml, hash: 'sha256:194619c219eebca2e37acc514f97c7cbe51445fb8ef547223f07ab618dea1a74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0437_000-B.markers.yaml, hash: 'sha256:26acd12d8231d6184857ed7988a3abbb205d34b889d8aa4f1e634ed164debd3b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0437_001-B.markers.yaml, hash: 'sha256:b6f80f26073b494adfcf034897754de360ebf1561982cf883dc8aa201042c395'}
+  - {seq: 2, role: markers, filename: assets/KR6v0437_002-B.markers.yaml, hash: 'sha256:32fe7eb0128e99cb85361216232df1bfd25311bf01e252a62e872456f825573f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 5009
+  label: 311喫茶養生記卷上序【考】卷下群本有之字。序字群本無。
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-2
+    span:
+    - body
+    - 821
+    - 821
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-3
+    span:
+    - body
+    - 835
+    - 835
+  label: 第一五藏和合門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-4
+    span:
+    - body
+    - 835
+    - 835
+  label: 五藏和合
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-5
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 茶功能并採調時節
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-6
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 茶名字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-7
+    span:
+    - body
+    - 2644
+    - 2644
+  label: 茶樹形花葉形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-8
+    span:
+    - body
+    - 2774
+    - 2774
+  label: 茶功能
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-9
+    span:
+    - body
+    - 4174
+    - 4174
+  label: 採茶時節
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-10
+    span:
+    - body
+    - 4497
+    - 4497
+  label: 採茶樣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-11
+    span:
+    - body
+    - 4563
+    - 4563
+  label: 調茶樣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 5091
+  label: 喫茶養生記卷下始【考】卷下群本有之字。始字壽本無。
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-1
+    span:
+    - body
+    - 33
+    - 33
+  label: 第二遣除鬼魅門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-2
+    span:
+    - body
+    - 33
+    - 33
+  label: 遣除鬼魅
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-3
+    span:
+    - body
+    - 341
+    - 341
+  label: 五種病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-4
+    span:
+    - body
+    - 341
+    - 341
+  label: 飲水病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-5
+    span:
+    - body
+    - 458
+    - 458
+  label: 中風手足不從心病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-6
+    span:
+    - body
+    - 739
+    - 739
+  label: 不食病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-7
+    span:
+    - body
+    - 962
+    - 962
+  label: 瘡病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-8
+    span:
+    - body
+    - 1494
+    - 1494
+  label: 脚氣病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-9
+    span:
+    - body
+    - 1937
+    - 1937
+  label: 治方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-10
+    span:
+    - body
+    - 2203
+    - 2203
+  label: 桑粥法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-11
+    span:
+    - body
+    - 2531
+    - 2531
+  label: 桑煎法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-12
+    span:
+    - body
+    - 2806
+    - 2806
+  label: 服桑木法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-13
+    span:
+    - body
+    - 2918
+    - 2918
+  label: 含桑木法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-14
+    span:
+    - body
+    - 3075
+    - 3075
+  label: 桑木枕法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-15
+    span:
+    - body
+    - 3132
+    - 3132
+  label: 服桑葉法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-16
+    span:
+    - body
+    - 3223
+    - 3223
+  label: 服桑椹法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-17
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 服高良薑法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-18
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 喫茶法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-19
+    span:
+    - body
+    - 3736
+    - 3736
+  label: 服五香煎法
+  type: mulu
+  level: 1
+hash: sha256:9134370e39576b193d8935eb062b1f9893b602f01be70ae7657358ee706e8b10

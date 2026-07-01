@@ -1,0 +1,351 @@
+canonical_identifier: bkk:krp/KR6v0437/v1
+canonical_location: https://kanripo.org/bkk/KR6v0437/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 喫茶養生記
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0175.xml
+    old_id: B32n0175
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0437_000.yaml, hash: 'sha256:714f1d655c86962f471b7e3a95d3cae57a8d8c8beba10bde08cbe82014c9c840'}
+  - {seq: 1, filename: KR6v0437_001.yaml, hash: 'sha256:b5c501e3196fbe457add59b2ce6b25bb92bb2193ef8e802cd8085e3633a63d7c'}
+  - {seq: 2, filename: KR6v0437_002.yaml, hash: 'sha256:f780d5958100fa38f66c8630dea9a827754173a25a87fda2b38740fba726816c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0437_001.markers.yaml, hash: 'sha256:74afc37b5302c1f9816b2dc01f0b5312c8ef704e05b530ee3e76c424d338b64a'}
+  - {seq: 2, role: markers, filename: assets/KR6v0437_002.markers.yaml, hash: 'sha256:33d612434b6d81df23a0ad2c25f71e64130192e3be57caa55d4a88c3217140a1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 5009
+  label: 311喫茶養生記卷上序【考】卷下群本有之字。序字群本無。
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-2
+    span:
+    - body
+    - 821
+    - 821
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-3
+    span:
+    - body
+    - 835
+    - 835
+  label: 第一五藏和合門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-4
+    span:
+    - body
+    - 835
+    - 835
+  label: 五藏和合
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-5
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 茶功能并採調時節
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-6
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 茶名字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-7
+    span:
+    - body
+    - 2644
+    - 2644
+  label: 茶樹形花葉形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-8
+    span:
+    - body
+    - 2774
+    - 2774
+  label: 茶功能
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-9
+    span:
+    - body
+    - 4174
+    - 4174
+  label: 採茶時節
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-10
+    span:
+    - body
+    - 4497
+    - 4497
+  label: 採茶樣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0437_B_001-mulu-11
+    span:
+    - body
+    - 4563
+    - 4563
+  label: 調茶樣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 5091
+  label: 喫茶養生記卷下始【考】卷下群本有之字。始字壽本無。
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-1
+    span:
+    - body
+    - 33
+    - 33
+  label: 第二遣除鬼魅門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-2
+    span:
+    - body
+    - 33
+    - 33
+  label: 遣除鬼魅
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-3
+    span:
+    - body
+    - 341
+    - 341
+  label: 五種病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-4
+    span:
+    - body
+    - 341
+    - 341
+  label: 飲水病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-5
+    span:
+    - body
+    - 458
+    - 458
+  label: 中風手足不從心病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-6
+    span:
+    - body
+    - 739
+    - 739
+  label: 不食病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-7
+    span:
+    - body
+    - 962
+    - 962
+  label: 瘡病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-8
+    span:
+    - body
+    - 1494
+    - 1494
+  label: 脚氣病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-9
+    span:
+    - body
+    - 1937
+    - 1937
+  label: 治方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-10
+    span:
+    - body
+    - 2203
+    - 2203
+  label: 桑粥法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-11
+    span:
+    - body
+    - 2531
+    - 2531
+  label: 桑煎法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-12
+    span:
+    - body
+    - 2806
+    - 2806
+  label: 服桑木法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-13
+    span:
+    - body
+    - 2918
+    - 2918
+  label: 含桑木法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-14
+    span:
+    - body
+    - 3075
+    - 3075
+  label: 桑木枕法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-15
+    span:
+    - body
+    - 3132
+    - 3132
+  label: 服桑葉法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-16
+    span:
+    - body
+    - 3223
+    - 3223
+  label: 服桑椹法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-17
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 服高良薑法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-18
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 喫茶法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0437_B_002-mulu-19
+    span:
+    - body
+    - 3736
+    - 3736
+  label: 服五香煎法
+  type: mulu
+  level: 1
+hash: sha256:2f8ada1b7a6b15e890352b669511edeb131fac3fc40d5d8c107cbb4d0534f78f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

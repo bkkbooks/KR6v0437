@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0437/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 喫茶養生記
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0175.xml
+    old_id: B32n0175
+hash: sha256:714f1d655c86962f471b7e3a95d3cae57a8d8c8beba10bde08cbe82014c9c840
